@@ -23,7 +23,7 @@
 📫 How to reach me: sharmashriyam676@gmail.com
 
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="220" />
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="200" />
 <br>
 
 
