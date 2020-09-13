@@ -1,6 +1,7 @@
 # Shriyam Sharma&nbsp; <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
@@ -13,13 +14,18 @@
   </em>  
 </p>
 
+
+
 <br>
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* react.js and redux.
 
 📫 How to reach me: sharmashriyam676@gmail.com
 
+
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="220" />
 <br>
+
 
 
 ![Shriyam Sharma's github stats](https://github-readme-stats.vercel.app/api?username=shriyamsharma&show_icons=true&hide_border=true)
