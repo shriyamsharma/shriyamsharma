@@ -18,7 +18,7 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* react.js and redux.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently exploring* react.js and redux.
 
 📫 How to reach me: sharmashriyam676@gmail.com
 
