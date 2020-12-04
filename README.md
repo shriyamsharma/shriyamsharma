@@ -18,7 +18,9 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently exploring* react.js and redux.
+- I’m *currently exploring* reactJS.
+- Leetcode: https://leetcode.com/karmasharma/
+- Hackerrank: https://www.hackerrank.com/karma_sharma_
 
 📫 How to reach me: sharmashriyam676@gmail.com
 
