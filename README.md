@@ -17,7 +17,6 @@
 
 <br>
 
-- I’m *currently exploring* reactJS.
 - Leetcode: https://leetcode.com/karmasharma/
 - Hackerrank: https://www.hackerrank.com/karma_sharma_
 - Strength: Fast Learner and hardworking.
