@@ -7,10 +7,10 @@
 <p>
   <em>
     I have completed my undergraduate from <a href="https://jssaten.ac.in/"> <b>JSS Academy of Technical Education</b>, Noida</a>.  
-    A <b>Java Programmer and MERN Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> 
+    A Java Programmer and MERN Stack Developer,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is obsessed
+    with the idea of improving himself and wants a platform to 
+    grow and 
+    excel.
   </em>  
 </p>
 
