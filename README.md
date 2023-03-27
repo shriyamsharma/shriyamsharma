@@ -2,12 +2,12 @@
 
 
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello World!** &nbsp;
 
 <p>
   <em>
     I have completed my undergraduate from <a href="https://jssaten.ac.in/"> <b>JSS Academy of Technical Education</b>, Noida</a>.  
-    A Java Programmer and MERN Stack Developer,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is obsessed
+    A Java Programmer and MERN Stack Developer,</b>&nbsp;  who is obsessed
     with the idea of improving himself and wants a platform to 
     grow and 
     excel.
