@@ -34,11 +34,6 @@
 
 <br>
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-
-<br>
-
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/shriyam-sharma/) [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:sharmashriyam676@gmail.com)
 
 <!--
 **shriyamsharma/shriyamsharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
