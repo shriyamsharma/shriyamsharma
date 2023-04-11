@@ -8,9 +8,7 @@
   <em>
     I have completed my undergraduate from <a href="https://jssaten.ac.in/"> <b>JSS Academy of Technical Education</b>, Noida</a>.  
     A Java Programmer and MERN Stack Developer,</b>&nbsp;  who is obsessed
-    with the idea of improving himself and wants a platform to 
-    grow and 
-    excel.
+    with the idea of improving himself and learning new technology excites me.
   </em>  
 </p>
 
